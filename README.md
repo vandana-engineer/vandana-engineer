@@ -53,3 +53,8 @@ Designed scalable ETL workflows with Python, SQL, and Airflow.
 💼 LinkedIn: [Vandana Charabudla](https://www.linkedin.com/in/vandana-charabudla-46a33a376)
 
 🌐 Portfolio: Coming Soon
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandana-engineer&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandana-engineer&layout=compact&theme=tokyonight)
