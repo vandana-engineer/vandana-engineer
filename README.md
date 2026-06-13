@@ -62,8 +62,8 @@ Designed scalable ETL workflows with Python, SQL, and Airflow.
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: vandanacharabudla21@gmail.com
 
-💼 LinkedIn: Add LinkedIn URL
+💼 LinkedIn: [Vandana Charabudla](https://www.linkedin.com/in/vandana-charabudla-46a33a376)
 
 🌐 Portfolio: Coming Soon
